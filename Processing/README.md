@@ -1,1 +1,4 @@
-授業で使用したProcessingとArduinoのコードです。Processingは.pdeファイル、Arduinoは.inoファイルとなっています。
+ファイル名はProcessingとなっていますが，
+中身には授業で使用したProcessingとArduinoのコードが記載してあります．
+また検証失敗してしまったコードもそのまま残してありますご了承ください．
+Processingは.pdeファイル，Arduinoは.inoファイルとなっています．
